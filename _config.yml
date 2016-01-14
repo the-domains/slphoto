@@ -2,6 +2,7 @@ name: SLPHOTO
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.57038
+title: 'Your best pictures are still to come '
 cta:
   domain: null
   bucket: null
