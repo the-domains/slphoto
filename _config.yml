@@ -1,7 +1,7 @@
 name: SLPHOTO
 favicon: null
 layout_spectrum: 0.7296805100049824
-typography_spectrum: 0.3750626801047474
+typography_spectrum: 0.57038
 cta:
   domain: null
   bucket: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 0.6937496142927557
   lightness: 0.831038957927376
   saturation: 0.4980882201343775
-  rhythmicContrast: 0.5999077474698424
+  rhythmicContrast: 0.5
 purpose: []
